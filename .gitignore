@@ -29,3 +29,6 @@ coverage
 *.sln
 *.sw?
 .husky
+
+# Lock file
+package-lock.json
