@@ -32,3 +32,6 @@ coverage
 
 # Lock file
 package-lock.json
+
+# Enviroment variable
+.env
